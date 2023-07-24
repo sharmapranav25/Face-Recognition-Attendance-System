@@ -1,0 +1,14 @@
+steps 
+1) install python and pycharm 
+
+2) using cmd prompt install the libraries in the same working directory as th .py file 
+cmd command to install files 
+
+"pip install opencv-python keras-facenet numpy scikit-learn pyzbar mysql-connector-python PySimpleGUI pandas
+"
+
+3) get the reqired pyzbar file in the working directory "vcredist_x64.exe"
+
+4) open face recognition.py
+
+5) create and run  batch file 
