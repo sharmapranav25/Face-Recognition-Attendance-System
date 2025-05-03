@@ -1,0 +1,11 @@
+opencv-python
+keras-facenet
+tensorflow>=2.11
+numpy
+pandas
+PySimpleGUI
+pyzbar
+mysql-connector-python
+scikit-learn
+xlrd
+XlsxWriter
