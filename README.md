@@ -82,7 +82,7 @@ connection = connect(
 ```
 python -m attendance_system
 ```
-#💡 Notes
+# 💡 Notes
 
 The app creates folders like Daily Attendance, Source, and Attendance Data automatically on first run.
 Barcode IDs must match the 5-digit employee IDs stored in the database.
